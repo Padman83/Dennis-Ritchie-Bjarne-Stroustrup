@@ -12,8 +12,8 @@ Dennis-Ritchie-Bjarne-Stroustrup Wallpaper.
 * [Adobe XD] (https://www.adobe.com)
 
 ### Built With
-* [HTML] (HTML)
-* [CSS] (CSS)
+* [HTML] 
+* [CSS]
 
 ## Contact
 
