@@ -1,4 +1,4 @@
-## About The Project
+## About
 
 CSS + Animation Wallpaper.
 
@@ -15,10 +15,6 @@ CSS + Animation Wallpaper.
 * [Adobe XD] (https://www.adobe.com)
 
 ### Built With
-* HTML
-* CSS
+
 * [Google Fonts] (https://fonts.google.com)
 
-## Project Link
-
-* [https://github.com/Padman83/Dennis-Ritchie-Bjarne-Stroustrup]
