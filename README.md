@@ -1,4 +1,4 @@
-## Dennis Ritchie Bjarne Stroustrup Animated Screens.
+## CSS Animated Screens.
 
 The Founders of two important languages in Computer.
 
